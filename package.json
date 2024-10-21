@@ -1,0 +1,19 @@
+{
+    "name": "buildaiapps",
+    "version": "1.0.0",
+    "description": "Proyecto de conexión a API",
+    "main": "server/server.js",
+    "scripts": {
+        "start": "node server/server.js"
+    },
+    "dependencies": {
+        "axios": "^1.7.7",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "openai": "^4.68.1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
