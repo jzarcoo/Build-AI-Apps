@@ -1,2 +1,8 @@
 .env
-node_modules
+node_modules/
+
+# En proceso de desarrollo
+cloudflare/stock_predictions/
+
+dist
+.DS_Store
